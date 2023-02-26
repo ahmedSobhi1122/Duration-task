@@ -3,8 +3,8 @@ import 'dart:async';
 import 'package:duration_task/main.dart';
 import 'package:flutter/material.dart';
 
-class Intro extends StatelessWidget {
-  const Intro({Key? key}) : super(key: key);
+class dur extends StatelessWidget {
+  const dur({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

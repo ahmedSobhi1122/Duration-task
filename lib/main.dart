@@ -1,4 +1,5 @@
 import 'package:duration_task/intro.dart';
+import 'package:duration_task/onboarding_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
